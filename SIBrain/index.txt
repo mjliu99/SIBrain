@@ -1,0 +1,49 @@
+abide train8 test2
+train_acc:0.6496, val_acc:0.6422, test_acc:0.6306, test_auc:0.6660, test_recall:0.7593, test_f1:0.6667
+abide train6 test4
+train_acc:0.6507, val_acc:0.6606, test_acc:0.6667, test_auc:0.7245, test_recall:0.7833, test_f1:0.7176
+abide train4 test6
+train_acc:0.6644, val_acc:0.6422, test_acc:0.5676, test_auc:0.5380, test_recall:0.5738, test_f1:0.5932
+abide train2 test8
+train_acc:0.6462, val_acc:0.5596, test_acc:0.6126, test_auc:0.6789, test_recall:0.6441, test_f1:0.6387
+abide train1 test9
+train_acc:0.6496, val_acc:0.5688, test_acc:0.5495, test_auc:0.5663, test_recall:0.5833, test_f1:0.5833
+
+
+
+adhd  train8 test2
+Epoch:1999, train_acc:0.6998, val_acc:0.6711, test_acc:0.5769, test_auc:0.6369, test_recall:0.8519, test_f1:0.5823
+adhd train6 test4
+Epoch:1999, train_acc:0.6803, val_acc:0.6053, test_acc:0.5256, test_auc:0.6312, test_recall:0.8333, test_f1:0.5747
+adhd train4 test6
+Epoch:1999, train_acc:0.6982, val_acc:0.6053, test_acc:0.5385, test_auc:0.5838, test_recall:0.6061, test_f1:0.5263
+adhd train2 test8
+Epoch:1999, train_acc:0.6591, val_acc:0.6711, test_acc:0.3974, test_auc:0.4893, test_recall:0.7826, test_f1:0.4337
+adhd train1 test9
+Epoch:1999, train_acc:0.6900, val_acc:0.6711, test_acc:0.4615, test_auc:0.4902, test_recall:0.5926, test_f1:0.4324
+
+
+
+
+meltBIB  0.0001
+train_acc:0.6553, val_acc:0.5596, test_acc:0.6036, test_auc:0.6955, test_recall:0.6935, test_f1:0.6615
+meltBIB  0.001
+train_acc:0.6496, val_acc:0.6422, test_acc:0.6306, test_auc:0.6660, test_recall:0.7593, test_f1:0.6667
+meltBIB  0.01
+train_acc:0.6507, val_acc:0.5963, test_acc:0.6937, test_auc:0.6912, test_recall:0.8393, test_f1:0.7344
+meltBIB  0.1
+train_acc:0.6405, val_acc:0.5872, test_acc:0.5135, test_auc:0.5565, test_recall:0.6667, test_f1:0.5574
+meltBIB  1
+train_acc:0.6530, val_acc:0.5872, test_acc:0.5676, test_auc:0.6247, test_recall:0.5385, test_f1:0.5932
+
+ADHD 0.0001
+train_acc:0.6705, val_acc:0.6184, test_acc:0.4872, test_auc:0.6383, test_recall:0.7692, test_f1:0.5000
+ADHD 0.001
+train_acc:0.6998, val_acc:0.6711, test_acc:0.5769, test_auc:0.6369, test_recall:0.8519, test_f1:0.5823
+ADHD 0.01
+train_acc:0.6933, val_acc:0.5921, test_acc:0.4103, test_auc:0.5207, test_recall:0.6923, test_f1:0.4390
+ADHD 0.1
+train_acc:0.6770, val_acc:0.6842, test_acc:0.5385, test_auc:0.6316, test_recall:0.7500, test_f1:0.6000
+ADHD 1
+train_acc:0.6835, val_acc:0.5263, test_acc:0.4103, test_auc:0.5207, test_recall:0.6923, test_f1:0.4390
+

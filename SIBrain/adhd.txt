@@ -1,0 +1,41 @@
+adhd cca  0.01
+Epoch:1995, train_acc:0.7129, val_acc:0.5132, test_acc:0.5000, test_auc:0.5563, test_recall:0.6250, test_f1:0.4348
+Epoch:1996, train_acc:0.7129, val_acc:0.5132, test_acc:0.5000, test_auc:0.5563, test_recall:0.6250, test_f1:0.4348
+Epoch:1997, train_acc:0.7129, val_acc:0.5132, test_acc:0.5000, test_auc:0.5563, test_recall:0.6250, test_f1:0.4348
+Epoch:1998, train_acc:0.7129, val_acc:0.5132, test_acc:0.5000, test_auc:0.5563, test_recall:0.6250, test_f1:0.4348
+Epoch:1999, train_acc:0.7129, val_acc:0.5132, test_acc:0.5000, test_auc:0.5563, test_recall:0.6250, test_f1:0.4348
+
+adhd cca  0.1
+Epoch:1994, train_acc:0.6672, val_acc:0.6842, test_acc:0.5000, test_auc:0.4975, test_recall:0.7931, test_f1:0.5412
+Epoch:1995, train_acc:0.6672, val_acc:0.6842, test_acc:0.5000, test_auc:0.4975, test_recall:0.7931, test_f1:0.5412
+Epoch:1996, train_acc:0.6672, val_acc:0.6842, test_acc:0.5000, test_auc:0.4975, test_recall:0.7931, test_f1:0.5412
+Epoch:1997, train_acc:0.6672, val_acc:0.6842, test_acc:0.5000, test_auc:0.4975, test_recall:0.7931, test_f1:0.5412
+Epoch:1998, train_acc:0.6672, val_acc:0.6842, test_acc:0.5000, test_auc:0.4975, test_recall:0.7931, test_f1:0.5412
+
+
+adhd 0.2
+Epoch:1996, train_acc:0.6705, val_acc:0.5395, test_acc:0.4744, test_auc:0.6109, test_recall:0.7692, test_f1:0.4938
+Epoch:1997, train_acc:0.6705, val_acc:0.5395, test_acc:0.4744, test_auc:0.6109, test_recall:0.7692, test_f1:0.4938
+Epoch:1998, train_acc:0.6705, val_acc:0.5395, test_acc:0.4744, test_auc:0.6109, test_recall:0.7692, test_f1:0.4938
+Epoch:1999, train_acc:0.6705, val_acc:0.5395, test_acc:0.4744, test_auc:0.6109, test_recall:0.7692, test_f1:0.4938
+
+
+adhd 0.3
+Epoch:1996, train_acc:0.6411, val_acc:0.6974, test_acc:0.3718, test_auc:0.4706, test_recall:0.8519, test_f1:0.4842
+Epoch:1997, train_acc:0.6411, val_acc:0.6974, test_acc:0.3718, test_auc:0.4706, test_recall:0.8519, test_f1:0.4842
+Epoch:1998, train_acc:0.6411, val_acc:0.6974, test_acc:0.3718, test_auc:0.4706, test_recall:0.8519, test_f1:0.4842
+Epoch:1999, train_acc:0.6411, val_acc:0.6974, test_acc:0.3718, test_auc:0.4706, test_recall:0.8519, test_f1:0.4842
+
+adhd cca  0.0001
+Epoch:1996, train_acc:0.6623, val_acc:0.6184, test_acc:0.4359, test_auc:0.6949, test_recall:0.8696, test_f1:0.4762
+Epoch:1997, train_acc:0.6623, val_acc:0.6184, test_acc:0.4359, test_auc:0.6949, test_recall:0.8696, test_f1:0.4762
+Epoch:1998, train_acc:0.6623, val_acc:0.6184, test_acc:0.4359, test_auc:0.6957, test_recall:0.8696, test_f1:0.4762
+Epoch:1999, train_acc:0.6623, val_acc:0.6184, test_acc:0.4359, test_auc:0.6957, test_recall:0.8696, test_f1:0.4762
+
+adhd cca 0.00001
+Epoch:1994, train_acc:0.6868, val_acc:0.5132, test_acc:0.3974, test_auc:0.5000, test_recall:0.8333, test_f1:0.4598
+Epoch:1995, train_acc:0.6868, val_acc:0.5132, test_acc:0.3974, test_auc:0.5000, test_recall:0.8333, test_f1:0.4598
+Epoch:1996, train_acc:0.6868, val_acc:0.5132, test_acc:0.3974, test_auc:0.5000, test_recall:0.8333, test_f1:0.4598
+Epoch:1997, train_acc:0.6868, val_acc:0.5132, test_acc:0.3974, test_auc:0.5000, test_recall:0.8333, test_f1:0.4598
+Epoch:1998, train_acc:0.6868, val_acc:0.5132, test_acc:0.3974, test_auc:0.5000, test_recall:0.8333, test_f1:0.4598
+Epoch:1999, train_acc:0.6868, val_acc:0.5132, test_acc:0.3974, test_auc:0.5000, test_recall:0.8333, test_f1:0.4598

@@ -1,0 +1,62 @@
+train8 test2
+子图数据集：
+epoch: 39: 100%|█████████████████████████████| 50/50 [00:04<00:00, 12.13batch/s]
+loss training: 0.181921
+Graphs saved to .//all_graphs_epoch_39.pkl
+accuracy train: 1.000000 test: 0.662338、
+
+
+train6 test4
+epoch: 43: 100%|█████████████████████████████| 50/50 [00:03<00:00, 12.58batch/s]
+loss training: 0.175840
+Graphs saved to .//all_graphs_epoch_43.pkl
+accuracy train: 1.000000 test: 0.596091
+
+
+
+
+train4 test6
+epoch: 41: 100%|█████████████████████████████| 50/50 [00:04<00:00, 11.65batch/s]
+loss training: 0.174338
+Graphs saved to .//all_graphs_epoch_41.pkl
+accuracy train: 1.000000 test: 0.596529
+
+
+
+***********************************
+ABIDE4/6
+epoch: 41: 100%|█████████████████████████████| 50/50 [00:04<00:00, 11.78batch/s]
+loss training: 0.187294
+Graphs saved to .//all_graphs_epoch_41.pkl
+accuracy train: 1.000000 test: 0.609091
+
+
+abide2/8
+epoch: 15: 100%|█████████████████████████████| 50/50 [00:04<00:00, 11.70batch/s]
+loss training: 0.147004
+Graphs saved to .//all_graphs_epoch_15.pkl
+accuracy train: 1.000000 test: 0.602273
+
+
+abide1/9
+epoch: 48: 100%|█████████████████████████████| 50/50 [00:04<00:00, 11.73batch/s]
+loss training: 0.176565
+Graphs saved to .//all_graphs_epoch_48.pkl
+accuracy train: 1.000000 test: 0.569697
+
+
+
+
+
+最终！！！！adhd
+epoch: 26: 100%|█████████████████████████████| 50/50 [00:02<00:00, 20.16batch/s]
+loss training: 0.172906
+Graphs saved to .//all_graphs_epoch_26.pkl
+accuracy train: 1.000000 test: 0.591205
+
+
+abide
+epoch: 13: 100%|█████████████████████████████| 50/50 [00:02<00:00, 20.16batch/s]
+loss training: 0.184481
+Graphs saved to .//all_graphs_epoch_13.pkl
+accuracy train: 1.000000 test: 0.593182

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@hz-t3.matpool.com:28805 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@hz-4.matpool.com:26011 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/cca" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-4.matpool.com:27295 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/cca" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-4.matpool.com:29397 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/cca" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:28805 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/cca" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:28944 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/cca" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:29410 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/cca" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
